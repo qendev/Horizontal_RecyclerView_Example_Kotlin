@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Horizontal_RecyclerView_Example(Kotlin)</string>
+    <string name="imagename">ImageName</string>
+</resources>

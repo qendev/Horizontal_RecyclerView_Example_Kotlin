@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Horizontal_RecyclerView_Example(Kotlin)"
